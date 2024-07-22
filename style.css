@@ -39,3 +39,8 @@ h3,
   text-align: center;
   padding-top: 6px;
 }
+
+.section a {
+  color: black;
+  text-decoration: none;
+}
